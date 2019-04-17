@@ -58,7 +58,3 @@ Total setup execution time : $(($(date +%s) - starttime)) secs ...
 ########################### Network Setup Finished ################################
 
 EOF
-
-echo Initializing Blockchain HTTP Server
-cd javascript
-npm start
